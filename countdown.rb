@@ -2,14 +2,14 @@
 n = 1
 def countdown
   while n < 10
-    puts "#{n} seconds"
+    puts "#{n} SECOND(S)!"
   end
   puts"HAPPY NEW YEAR!"
 end
 
 def countdown_with_sleep
   while n < 10
-    puts "#{n} seconds"
+    puts "#{n} SECOND(S)!"
     sleep(1)
   end
   puts"HAPPY NEW YEAR!"
